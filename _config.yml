@@ -1,9 +1,9 @@
-name: Arnob Karmokar
-tagline: Electrical and Electronic Engineer
-career-objective: This is a GitHub Pages template for academic portfolio websites. Fork <a href="https://github.com/academicportfolio/academicportfolio.github.io">this repository</a> to get started. This section will be replaced by your career objective. Read the README of the repository to learn about customizing the site.
-color-theme: red # red or blue
+name: Rohan Bade
+tagline: Electronics, Communication and Information Engineer
+career-objective: Hello! Welcome to my personal portfolio website. Below, I have mentioned my skills, certifications and achievement. You can navigate to other sections too. Thank you.
+color-theme: blue # red or blue
 avatar-filename: profilephoto.png # Change to your avatar's filename
-url: academicportfolio.github.io
+url: rohanbade.github.io
 baseurl: /
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -12,16 +12,16 @@ paginate_path: "/blog/page:num/"
 social:
   email:
     visibility: true
-    mail: contact@arnob.me
+    mail: baderohan759@gmail.com
   github:
     visibility: true
-    handle: arnobk
+    handle: https://github.com/RohanBade/
   linkedin:
     visibility: true
-    handle: arnobkarmokar
-  twitter:
+    handle: https://np.linkedin.com/in/rohan-bade
+  medium:
     visibility: true
-    handle: arnobdotme
+    handle: https://medium.com/@baderohan759
 
 # Collections
 collections:
@@ -78,18 +78,18 @@ collection_option:
     visibility: true
 
 navigation:
-  - title: About
+  - title: About Me
     url: /
-  - title: Blog
-    url: /blog/
-  - title: Contact
-    url: /contact/
-  - title: Experience
-    url: /experience/
   - title: Education
     url: /education/
+  - title: Experience
+    url: /experience/
   - title: Projects
     url: /projects/
+  - title: Blogs
+    url: /blog/
+  - title: Contact Me
+    url: /contact/
 
 include:
   - _pages
