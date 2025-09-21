@@ -10,16 +10,16 @@ paginate_path: "/blog/page:num/"
 
 # Social Information
 social:
-  email: 
+  email:
     visibility: true
     mail: contact@arnob.me
-  github: 
+  github:
     visibility: true
     handle: arnobk
-  linkedin: 
+  linkedin:
     visibility: true
     handle: arnobkarmokar
-  twitter: 
+  twitter:
     visibility: true
     handle: arnobdotme
 
@@ -52,63 +52,67 @@ collections:
 
 # About Page Options
 collection_option:
-  experience: 
+  experience:
     label: Experience
     visibility: true
-  education: 
+  education:
     label: Education
     visibility: true
-  projects: 
+  projects:
     label: Projects
     visibility: true
-  skills: 
+  skills:
     label: Technical Skills
     visibility: true
-  publications: 
+  publications:
     label: Publications
     visibility: true
-  volunteerexperience: 
+  volunteerexperience:
     label: Volunteer Experience
     visibility: true
-  certifications: 
+  certifications:
     label: Certifications
     visibility: true
-  achievements: 
+  achievements:
     label: Achievements
     visibility: true
 
 navigation:
-- title: About
-  url: /
-- title: Blog
-  url: /blog/
-- title: Contact
-  url: /contact
+  - title: About
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: Contact
+    url: /contact
 
 include:
   - _pages
 
 exclude:
   - readme.md
+  - vendor
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
 
 # Defaults
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: posts
     values:
       permalink: /:categories/:year/:month/:title
       layout: post
       comments: true
   - scope:
-      path: ''
+      path: ""
       type: projects
     values:
       permalink: /projects/:title
       layout: project
       comments: false
   - scope:
-      path: ''
+      path: ""
       type: publications
     values:
       permalink: /publications/:title
