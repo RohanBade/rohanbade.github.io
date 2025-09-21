@@ -4,8 +4,6 @@ layout: default
 permalink: "/experience/"
 ---
 
-# Work Experience
-
 {% for experience in site.experience %}
 
 <div class="ap-experience">

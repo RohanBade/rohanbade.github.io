@@ -4,8 +4,6 @@ layout: default
 permalink: "/education/"
 ---
 
-# Education
-
 {% for education in site.education %}
 
 <div class="ap-education">

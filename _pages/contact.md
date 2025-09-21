@@ -1,9 +1,7 @@
 ---
-title: Contact
+title: Contact Me
 layout: default
 permalink: "/contact/"
 ---
-
-# Contact Me
 
 {% include contact-form.html %}

@@ -4,8 +4,6 @@ layout: default
 permalink: "/projects/"
 ---
 
-# Projects
-
 {% for project in site.projects reversed %}
 
 <div class="ap-project">
