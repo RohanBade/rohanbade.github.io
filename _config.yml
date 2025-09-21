@@ -80,12 +80,12 @@ collection_option:
 navigation:
   - title: About
     url: /
-  - title: Experience
-    url: /experience
   - title: Blog
     url: /blog/
   - title: Contact
     url: /contact
+  - title: Experience
+    url: /experience
 
 include:
   - _pages

@@ -1,7 +1,7 @@
 ---
 title: Experience
 layout: default
-permalink: "/experience"
+permalink: "/experience/"
 ---
 
 # Work Experience
