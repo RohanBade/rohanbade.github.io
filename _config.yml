@@ -2,7 +2,7 @@ name: Arnob Karmokar
 tagline: Electrical and Electronic Engineer
 career-objective: This is a GitHub Pages template for academic portfolio websites. Fork <a href="https://github.com/academicportfolio/academicportfolio.github.io">this repository</a> to get started. This section will be replaced by your career objective. Read the README of the repository to learn about customizing the site.
 color-theme: red # red or blue
-avatar-filename: profilephoto.jpg # Change to your avatar's filename
+avatar-filename: profilephoto.png # Change to your avatar's filename
 url: academicportfolio.github.io
 baseurl: /
 paginate: 5
