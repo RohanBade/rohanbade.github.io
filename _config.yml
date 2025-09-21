@@ -83,9 +83,13 @@ navigation:
   - title: Blog
     url: /blog/
   - title: Contact
-    url: /contact
+    url: /contact/
   - title: Experience
-    url: /experience
+    url: /experience/
+  - title: Education
+    url: /education/
+  - title: Projects
+    url: /projects/
 
 include:
   - _pages
