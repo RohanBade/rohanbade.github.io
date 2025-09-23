@@ -4,7 +4,8 @@ layout: default
 permalink: "/experience/"
 ---
 
-{% for experience in site.experience %}
+{% assign sorted_experience = site.experience | sort: "order" %}
+{% for experience in sorted_experience %}
 
 <div class="ap-experience">
     <p class="ap-experience-title">{{experience.title}}, <a href="{{experience.institute-url}}">{{experience.institute}}</a></p>
