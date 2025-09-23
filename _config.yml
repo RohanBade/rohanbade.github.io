@@ -15,13 +15,13 @@ social:
     mail: baderohan759@gmail.com
   github:
     visibility: true
-    handle: https://github.com/RohanBade/
+    handle: RohanBade
   linkedin:
     visibility: true
-    handle: https://np.linkedin.com/in/rohan-bade
+    handle: rohan-bade
   medium:
     visibility: true
-    handle: https://medium.com/@baderohan759
+    handle: "@baderohan759"
 
 # Collections
 collections:
