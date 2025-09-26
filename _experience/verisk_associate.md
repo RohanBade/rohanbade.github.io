@@ -1,5 +1,5 @@
 ---
-title: Associate
+title: Associate Software Engineer
 institute: Verisk Nepal
 institute-url: https://www.verisknepal.com.np/
 duration: Oct 2025 - Present
