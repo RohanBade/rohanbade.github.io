@@ -1,5 +1,5 @@
 ---
-title: Chess Enginer
+title: Chess Engine
 layout: project
 year: 2021
 project-url: https://github.com/RohanBade/chess
