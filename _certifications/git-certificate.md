@@ -1,7 +1,7 @@
 ---
-title: Git Certificate
-institute: Coursera
-year: 2020
+title: Generative AI training
+institute: AWS
+year: 2025
 certificate_url: https://coursera.com/
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+excerpt: a two day GenAI training by AWS
 ---
