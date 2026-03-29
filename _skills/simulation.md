@@ -1,5 +1,6 @@
 ---
-category: Simulation/EDA
-tags: [MATLAB Simulink, PSpice, Proteus, Intel Quartus Prime, Cadence Virtuoso]
+category: Tools & Platforms
+tags:
+  [Git, GitHub, Linux, AWS, Bamboo, Octopus Deploy, SonarQube, GitHub Actions]
 order: 3
 ---

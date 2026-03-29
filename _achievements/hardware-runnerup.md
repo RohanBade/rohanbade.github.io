@@ -1,5 +1,5 @@
 ---
-title: Runnerup in Hardware Showcase at Mindsparks
-year: 2022
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+title: 2nd Runner-up, Nationwide Inter-College SET Exhibition
+year: 2019
+excerpt: Secured 3rd position in the exhibition among nearly 40 participating groups.
 ---

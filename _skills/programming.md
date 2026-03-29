@@ -1,5 +1,5 @@
 ---
-category: Programming
-tags: [C++, Python, Tcl, Matlab, PHP, NodeJS, Dart]
+category: Programming Languages
+tags: [C++, Python, Rust, SQL, JavaScript, SQL, NoSQL, Bash]
 order: 1
 ---
