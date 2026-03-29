@@ -2,7 +2,7 @@
 title: Chord Classification Using Machine Learning
 year: 2025
 excerpt: PCP-based feature extraction significantly outperforms spectrogram-based methods, particularly with limited training data.
-pub-image: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChord_(music)&ved=0CBYQjRxqFwoTCKCPuICrxJMDFQAAAAAdAAAAABAI&opi=89978449
+pub-image: chords.png
 pub-url: https://www.kecktm.edu.np/research-and-publications/abstract-of-papers-december-2025#:~:text=Chord,machines,-CNC
 comments: true
 ---
